@@ -71,25 +71,135 @@
         "vendor": "Pimoroni",
         "model": "Badger 2350",
         "family": "rp2",
-        "title": "Badger 2350 (with Pimoroni libraries and Badger OS)",
+        "title": "Badger 2350 (with Pimoroni libraries)",
         "info_url": "https://github.com/pimoroni/badger2350/releases",
         "downloads": [
             {
-                "version": "3.1.0",
-                "url": "https://github.com/pimoroni/badger2350/releases/download/v3.1.0/badger-v3.1.0-micropython-with-filesystem.uf2"
+                "version": "3.1.1",
+                "url": "https://github.com/pimoroni/badger2350/releases/download/v3.1.1/badger-v3.1.1-micropython.uf2"
+            },
+            {
+                "version": "3.0.2",
+                "url": "https://github.com/pimoroni/badger2350/releases/download/v3.0.2/badger-v3.0.2-micropython.uf2"
             }
         ]
     },
     {
         "vendor": "Pimoroni",
-        "model": "Badger 2350",
+        "model": "Badger 2350 fs",
         "family": "rp2",
-        "title": "Badger 2350 (with Pimoroni libraries)",
+        "title": "Badger 2350 (with Pimoroni libraries and files)",
         "info_url": "https://github.com/pimoroni/badger2350/releases",
         "downloads": [
             {
-                "version": "3.1.0",
-                "url": "https://github.com/pimoroni/badger2350/releases/download/v3.1.0/badger-v3.1.0-micropython.uf2"
+                "version": "3.1.1",
+                "url": "https://github.com/pimoroni/badger2350/releases/download/v3.1.1/badger-v3.1.1-micropython-with-filesystem.uf2"
+            },
+            {
+                "version": "3.0.2",
+                "url": "https://github.com/pimoroni/badger2350/releases/download/v3.0.2/badger-v3.0.2-micropython-with-filesystem.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "Pimoroni",
+        "model": "Tufty 2350",
+        "family": "rp2",
+        "title": "Tufty 2350 (with Pimoroni libraries)",
+        "info_url": "https://github.com/pimoroni/tufty2350/releases",
+        "downloads": [
+            {
+                "version": "3.1.1",
+                "url": "https://github.com/pimoroni/tufty2350/releases/download/v3.1.1/tufty-v3.1.1-micropython.uf2"
+            },
+            {
+                "version": "3.0.2",
+                "url": "https://github.com/pimoroni/tufty2350/releases/download/v3.0.2/tufty-v3.0.2-micropython.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "Pimoroni",
+        "model": "Tufty 2350 FS",
+        "family": "rp2",
+        "title": "Tufty 2350 (with Pimoroni libraries and files)",
+        "info_url": "https://github.com/pimoroni/tufty2350/releases",
+        "downloads": [
+            {
+                "version": "3.1.1",
+                "url": "https://github.com/pimoroni/tufty2350/releases/download/v3.1.1/tufty-v3.1.1-micropython-with-filesystem.uf2"
+            },
+            {
+                "version": "3.0.2",
+                "url": "https://github.com/pimoroni/tufty2350/releases/download/v3.0.2/tufty-v3.0.2-micropython-with-filesystem.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "Pimoroni",
+        "model": "Blinky 2350",
+        "family": "rp2",
+        "title": "Blinky 2350 (with Pimoroni libraries)",
+        "info_url": "https://github.com/pimoroni/blinky2350/releases",
+        "downloads": [
+            {
+                "version": "3.1.1",
+                "url": "https://github.com/pimoroni/blinky2350/releases/download/v3.1.1/blinky-v3.1.1-micropython.uf2"
+            },
+            {
+                "version": "3.0.2",
+                "url": "https://github.com/pimoroni/blinky2350/releases/download/v3.0.2/blinky-v3.0.2-micropython.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "Pimoroni",
+        "model": "Blinky 2350 fs",
+        "family": "rp2",
+        "title": "Blinky 2350 (with Pimoroni libraries and files)",
+        "info_url": "https://github.com/pimoroni/blinky2350/releases",
+        "downloads": [
+            {
+                "version": "3.1.1",
+                "url": "https://github.com/pimoroni/blinky2350/releases/download/v3.1.1/blinky-v3.1.1-micropython-with-filesystem.uf2"
+            },
+            {
+                "version": "3.0.2",
+                "url": "https://github.com/pimoroni/blinky2350/releases/download/v3.0.2/blinky-v3.0.2-micropython-with-filesystem.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "Pimoroni",
+        "model": "Presto",
+        "family": "rp2",
+        "title": "Presto (with Pimoroni libraries)",
+        "info_url": "https://github.com/pimoroni/presto/releases",
+        "downloads": [
+            {
+                "version": "2.0.0",
+                "url": "https://github.com/pimoroni/presto/releases/download/v2.0.0/presto-v2.0.0-micropython.uf2"
+            },
+            {
+                "version": "1.0.0",
+                "url": "https://github.com/pimoroni/presto/releases/download/v1.0.0/presto-v1.0.0-micropython.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "Pimoroni",
+        "model": "Presto fs",
+        "family": "rp2",
+        "title": "Presto (with Pimoroni libraries and files)",
+        "info_url": "https://github.com/pimoroni/presto/releases",
+        "downloads": [
+            {
+                "version": "2.0.0",
+                "url": "https://github.com/pimoroni/presto/releases/download/v2.0.0/presto-v2.0.0-micropython-with-filesystem.uf2"
+            },
+            {
+                "version": "1.0.0",
+                "url": "https://github.com/pimoroni/presto/releases/download/v1.0.0/presto-v1.0.0-micropython-with-filesystem.uf2"
             }
         ]
     },
@@ -101,29 +211,46 @@
         "info_url": "https://github.com/pimoroni/pimoroni-pico/releases",
         "downloads": [
             {
+                "version": "1.29.0",
+                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.29.0/enviro-v1.29.0-pimoroni-micropython.uf2"
+            },
+            {
                 "version": "1.27.0",
                 "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.27.0/enviro-v1.27.0-pimoroni-micropython.uf2"
-            },
-            {
-                "version": "1.25.0",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.25.0/enviro-v1.25.0-pimoroni-micropython.uf2"
-            },
-            {
-                "version": "1.23.0-1",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.23.0-1/enviro-v1.23.0-1-pimoroni-micropython.uf2"
             }
         ]
     },
     {
         "vendor": "Pimoroni",
-        "model": "Inky Frame",
+        "model": "Inky Frame with Pico W",
         "family": "rp2",
-        "title": "Inky Frame (with Pimoroni libraries)",
-        "info_url": "https://github.com/pimoroni/pimoroni-pico/releases",
+        "title": "Inky Frame with Pico W (with Pimoroni libraries)",
+        "info_url": "https://github.com/pimoroni/inky-frame/releases",
         "downloads": [
             {
-                "version": "1.23.0-1",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.23.0-1/inky_frame-v1.23.0-1-pimoroni-micropython.uf2"
+                "version": "1.29.0",
+                "url": "https://github.com/pimoroni/inky-frame/releases/download/v1.29.0/pico_w_inky-v1.29.0-micropython.uf2"
+            },
+            {
+                "version": "1.27.0",
+                "url": "https://github.com/pimoroni/inky-frame/releases/download/v1.27.0/pico_w_inky-v1.27.0-micropython.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "Pimoroni",
+        "model": "Inky Frame with Pico 2 W",
+        "family": "rp2",
+        "title": "Inky Frame with Pico 2 W (with Pimoroni libraries)",
+        "info_url": "https://github.com/pimoroni/inky-frame/releases",
+        "downloads": [
+            {
+                "version": "1.29.0",
+                "url": "https://github.com/pimoroni/inky-frame/releases/download/v1.29.0/pico2_w_inky-v1.29.0-micropython.uf2"
+            },
+            {
+                "version": "1.27.0",
+                "url": "https://github.com/pimoroni/inky-frame/releases/download/v1.27.0/pico2_w_inky-v1.27.0-micropython.uf2"
             }
         ]
     },
@@ -135,16 +262,12 @@
         "info_url": "https://github.com/pimoroni/pimoroni-pico/releases",
         "downloads": [
             {
+                "version": "1.29.0",
+                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.29.0/picolipo_16mb-v1.29.0-pimoroni-micropython.uf2"
+            },
+            {
                 "version": "1.27.0",
                 "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.27.0/picolipo_16mb-v1.27.0-pimoroni-micropython.uf2"
-            },
-            {
-                "version": "1.25.0",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.25.0/picolipo_16mb-v1.25.0-pimoroni-micropython.uf2"
-            },
-            {
-                "version": "1.23.0-1",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.23.0-1/picolipo_16mb-v1.23.0-1-pimoroni-micropython.uf2"
             }
         ]
     },
@@ -156,16 +279,12 @@
         "info_url": "https://github.com/pimoroni/pimoroni-pico/releases",
         "downloads": [
             {
+                "version": "1.29.0",
+                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.29.0/picolipo_4mb-v1.29.0-pimoroni-micropython.uf2"
+            },
+            {
                 "version": "1.27.0",
                 "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.27.0/picolipo_4mb-v1.27.0-pimoroni-micropython.uf2"
-            },
-            {
-                "version": "1.25.0",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.25.0/picolipo_4mb-v1.25.0-pimoroni-micropython.uf2"
-            },
-            {
-                "version": "1.23.0-1",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.23.0-1/picolipo_4mb-v1.23.0-1-pimoroni-micropython.uf2"
             }
         ]
     },
@@ -174,8 +293,12 @@
         "model": "Pico Plus 2",
         "family": "rp2",
         "title": "Pico Plus 2 (with Pimoroni libraries)",
-        "info_url": "https://github.com/pimoroni/pimoroni-pico-rp2350/releases",
+        "info_url": "https://github.com/pimoroni/pimoroni-pico/releases",
         "downloads": [
+            {
+                "version": "1.29.0-2",
+                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.29.0-2/pico_plus2-v1.29.0-2-pimoroni-micropython.uf2"
+            },
             {
                 "version": "1.26.1",
                 "url": "https://github.com/pimoroni/pimoroni-pico-rp2350/releases/download/v1.26.1/pimoroni_pico_plus2-v1.26.1-micropython.uf2"
@@ -190,6 +313,10 @@
         "info_url": "https://github.com/pimoroni/pimoroni-pico-rp2350/releases",
         "downloads": [
             {
+                "version": "1.29.0",
+                "url": "https://github.com/pimoroni/pimoroni-pico-rp2350/releases/download/v1.29.0/pimoroni_plasma2350-v1.29.0-micropython.uf2"
+            },
+            {
                 "version": "1.26.1",
                 "url": "https://github.com/pimoroni/pimoroni-pico-rp2350/releases/download/v1.26.1/pimoroni_plasma2350-v1.26.1-micropython.uf2"
             }
@@ -203,16 +330,12 @@
         "info_url": "https://github.com/pimoroni/pimoroni-pico/releases",
         "downloads": [
             {
+                "version": "1.29.0-2",
+                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.29.0-2/tiny2040_8mb-v1.29.0-2-pimoroni-micropython.uf2"
+            },
+            {
                 "version": "1.27.0",
                 "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.27.0/tiny2040_8mb-v1.27.0-pimoroni-micropython.uf2"
-            },
-            {
-                "version": "1.25.0",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.25.0/tiny2040_8mb-v1.25.0-pimoroni-micropython.uf2"
-            },
-            {
-                "version": "1.23.0-1",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.23.0-1/tiny2040_8mb-v1.23.0-1-pimoroni-micropython.uf2"
             }
         ]
     },
@@ -221,8 +344,12 @@
         "model": "Tiny 2350",
         "family": "rp2",
         "title": "Tiny 2350 (with Pimoroni libraries)",
-        "info_url": "https://github.com/pimoroni/pimoroni-pico-rp2350/releases",
+        "info_url": "https://github.com/pimoroni/pimoroni-pico/releases",
         "downloads": [
+            {
+                "version": "1.29.0-2",
+                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.29.0-2/tiny2350-v1.29.0-2-pimoroni-micropython.uf2"
+            },
             {
                 "version": "1.26.1",
                 "url": "https://github.com/pimoroni/pimoroni-pico-rp2350/releases/download/v1.26.1/pimoroni_tiny2350-v1.26.1-micropython.uf2"
@@ -237,16 +364,12 @@
         "info_url": "https://github.com/pimoroni/pimoroni-pico/releases",
         "downloads": [
             {
+                "version": "1.29.0-2",
+                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.29.0-2/tufty2040-v1.29.0-2-pimoroni-micropython.uf2"
+            },
+            {
                 "version": "1.27.0",
                 "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.27.0/tufty2040-v1.27.0-pimoroni-micropython.uf2"
-            },
-            {
-                "version": "1.25.0",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.25.0/tufty2040-v1.25.0-pimoroni-micropython.uf2"
-            },
-            {
-                "version": "1.23.0-1",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.23.0-1/tufty2040-v1.23.0-1-pimoroni-micropython.uf2"
             }
         ]
     },
@@ -258,12 +381,12 @@
         "info_url": "https://github.com/pimoroni/pimoroni-pico/releases",
         "downloads": [
             {
-                "version": "1.27.0",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.27.0/pico_ppp-v1.27.0-pimoroni-micropython.uf2"
+                "version": "1.29.0-2",
+                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.29.0-2/pico_ppp-v1.29.0-2-pimoroni-micropython.uf2"
             },
             {
-                "version": "1.25.0",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.25.0/pico_ppp-v1.25.0-pimoroni-micropython.uf2"
+                "version": "1.27.0",
+                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.27.0/pico_ppp-v1.27.0-pimoroni-micropython.uf2"
             }
         ]
     },
@@ -275,16 +398,12 @@
         "info_url": "https://github.com/pimoroni/pimoroni-pico/releases",
         "downloads": [
             {
+                "version": "1.29.0-2",
+                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.29.0-2/pico_usb-v1.29.0-2-pimoroni-micropython.uf2"
+            },
+            {
                 "version": "1.27.0",
                 "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.27.0/pico_usb-v1.27.0-pimoroni-micropython.uf2"
-            },
-            {
-                "version": "1.25.0",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.25.0/pico_usb-v1.25.0-pimoroni-micropython.uf2"
-            },
-            {
-                "version": "1.23.0-1",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.23.0-1/pico_usb-v1.23.0-1-pimoroni-micropython.uf2"
             }
         ]
     },
@@ -296,29 +415,12 @@
         "info_url": "https://github.com/pimoroni/pimoroni-pico/releases",
         "downloads": [
             {
+                "version": "1.29.0",
+                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.29.0/pico-v1.29.0-pimoroni-micropython.uf2"
+            },
+            {
                 "version": "1.27.0",
                 "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.27.0/pico-v1.27.0-pimoroni-micropython.uf2"
-            },
-            {
-                "version": "1.25.0",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.25.0/pico-v1.25.0-pimoroni-micropython.uf2"
-            },
-            {
-                "version": "1.23.0-1",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.23.0-1/pico-v1.23.0-1-pimoroni-micropython.uf2"
-            }
-        ]
-    },
-    {
-        "vendor": "Raspberry Pi",
-        "model": "Pico 2 (b)",
-        "family": "rp2",
-        "title": "Pico 2 (b) (with Pimoroni libraries)",
-        "info_url": "https://github.com/pimoroni/pimoroni-pico-rp2350/releases",
-        "downloads": [
-            {
-                "version": "1.26.1",
-                "url": "https://github.com/pimoroni/pimoroni-pico-rp2350/releases/download/v1.26.1/rpi_pico2b-v1.26.1-micropython.uf2"
             }
         ]
     },
@@ -327,8 +429,12 @@
         "model": "Pico 2",
         "family": "rp2",
         "title": "Pico 2 (with Pimoroni libraries)",
-        "info_url": "https://github.com/pimoroni/pimoroni-pico-rp2350/releases",
+        "info_url": "https://github.com/pimoroni/pimoroni-pico/releases",
         "downloads": [
+            {
+                "version": "1.29.0-2",
+                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.29.0-2/pico2-v1.29.0-2-pimoroni-micropython.uf2"
+            },
             {
                 "version": "1.26.1",
                 "url": "https://github.com/pimoroni/pimoroni-pico-rp2350/releases/download/v1.26.1/rpi_pico2-v1.26.1-micropython.uf2"
@@ -337,11 +443,32 @@
     },
     {
         "vendor": "Raspberry Pi",
+        "model": "Pico 2 RP2350B",
+        "family": "rp2",
+        "title": "Pico 2 B (for RP2350B with Pimoroni libraries)",
+        "info_url": "https://github.com/pimoroni/pimoroni-pico/releases",
+        "downloads": [
+            {
+                "version": "1.29.0-2",
+                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.29.0-2/pico2b-v1.29.0-2-pimoroni-micropython.uf2"
+            },
+            {
+                "version": "1.26.1",
+                "url": "https://github.com/pimoroni/pimoroni-pico-rp2350/releases/download/v1.26.1/rpi_pico2b-v1.26.1-micropython.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "Raspberry Pi",
         "model": "Pico 2 W",
         "family": "rp2",
         "title": "Pico 2 W (with Pimoroni libraries)",
-        "info_url": "https://github.com/pimoroni/pimoroni-pico-rp2350/releases",
+        "info_url": "https://github.com/pimoroni/pimoroni-pico/releases",
         "downloads": [
+            {
+                "version": "1.29.0-2",
+                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.29.0-2/pico2_w-v1.29.0-2-pimoroni-micropython.uf2"
+            },
             {
                 "version": "1.26.1",
                 "url": "https://github.com/pimoroni/pimoroni-pico-rp2350/releases/download/v1.26.1/rpi_pico2_w-v1.26.1-micropython.uf2"
@@ -356,16 +483,12 @@
         "info_url": "https://github.com/pimoroni/pimoroni-pico/releases",
         "downloads": [
             {
+                "version": "1.29.0-2",
+                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.29.0-2/picow-v1.29.0-2-pimoroni-micropython.uf2"
+            },
+            {
                 "version": "1.27.0",
                 "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.27.0/picow-v1.27.0-pimoroni-micropython.uf2"
-            },
-            {
-                "version": "1.25.0",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.25.0/picow-v1.25.0-pimoroni-micropython.uf2"
-            },
-            {
-                "version": "1.23.0-1",
-                "url": "https://github.com/pimoroni/pimoroni-pico/releases/download/v1.23.0-1/picow-v1.23.0-1-pimoroni-micropython.uf2"
             }
         ]
     }
