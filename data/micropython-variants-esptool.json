@@ -98,6 +98,18 @@
     },
     {
         "vendor": "Espressif",
+        "model": "ESP32-H2",
+        "family": "esp32h2",
+        "info_url": "https://micropython.org/download/ESP32_GENERIC_H2",
+        "downloads": [
+            {
+                "version": "1.29.0",
+                "url": "https://micropython.org/resources/firmware/ESP32_GENERIC_H2-20260824-v1.29.0.bin"
+            }
+        ]
+    },
+    {
+        "vendor": "Espressif",
         "model": "ESP32-P4",
         "family": "esp32p4",
         "info_url": "https://micropython.org/download/ESP32_GENERIC_P4",
@@ -233,6 +245,18 @@
             {
                 "version": "1.28.0",
                 "url": "https://micropython.org/resources/firmware/M5STACK_NANOC6-20260406-v1.28.0.bin"
+            }
+        ]
+    },
+    {
+        "vendor": "M5Stack",
+        "model": "NanoH2",
+        "family": "esp32h2",
+        "info_url": "https://micropython.org/download/M5STACK_NANOH2",
+        "downloads": [
+            {
+                "version": "1.29.0",
+                "url": "https://micropython.org/resources/firmware/M5STACK_NANOH2-20260824-v1.29.0.bin"
             }
         ]
     },

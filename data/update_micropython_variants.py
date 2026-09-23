@@ -50,7 +50,7 @@ class IndexParser(HTMLParser):
 
 all_variants = []
 
-mcu_list = "esp8266, esp32, esp32s2, esp32s3, esp32c2, esp32c3, esp32c5, esp32c6, esp32p4, rp2040, rp2350, samd21, samd51, nrf51, nrf52"
+mcu_list = "esp8266, esp32, esp32s2, esp32s3, esp32c2, esp32c3, esp32c5, esp32c6, esp32h2, esp32p4, rp2040, rp2350, samd21, samd51, nrf51, nrf52"
 
 for mcu in map(str.strip, mcu_list.split(",")):
     print("Fetching mcu", mcu, end="... ")
@@ -405,7 +405,7 @@ save_variants(
 save_variants(
     all_variants,
     ["bin"],
-    {"esp8266", "esp32", "esp32s2", "esp32s3", "esp32c2", "esp32c3", "esp32c5", "esp32c6", "esp32p4"},
+    {"esp8266", "esp32", "esp32s2", "esp32s3", "esp32c2", "esp32c3", "esp32c5", "esp32c6", "esp32h2", "esp32p4"},
     "micropython-variants-esptool.json",
     latest_prerelease_regex=UNSTABLE_VERSION,
 )
